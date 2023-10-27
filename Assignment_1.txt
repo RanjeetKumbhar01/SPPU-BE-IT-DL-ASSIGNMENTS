@@ -1,0 +1,52 @@
+1. TensorFlow:
+
+Distinct Features:
+
+TensorFlow is an open-source deep learning framework developed by Google.
+It offers a comprehensive ecosystem for machine learning and deep learning.
+TensorFlow provides both high-level APIs (like Keras) and low-level APIs for maximum flexibility.
+It supports distributed computing and can run on various platforms, including CPU and GPU.
+Functionality:
+
+TensorFlow is known for its computational graph-based approach, making it highly efficient for deep learning.
+It has extensive libraries for neural networks, including pre-built layers and optimizers.
+TensorFlow also supports deployment on mobile and embedded devices, making it versatile.
+
+2. Keras:
+
+Distinct Features:
+
+Keras is an open-source high-level neural networks API that can run on top of TensorFlow, Theano, or other deep learning frameworks.
+It is designed for easy and rapid prototyping of neural networks.
+Keras is user-friendly, with a simple and consistent API.
+Functionality:
+
+Keras is excellent for beginners and for quickly building and testing neural network models.
+It provides a high-level interface for defining and training neural networks with minimal code.
+Keras can seamlessly switch between different backend engines, such as TensorFlow and Theano.
+
+3. Theano:
+
+Distinct Features:
+
+Theano is an open-source numerical computation library that specializes in optimizing mathematical expressions.
+It is one of the early deep learning frameworks and has been influential in the field.
+Theano focuses on CPU and GPU computation optimization.
+Functionality:
+
+Theano is used as a backend for other deep learning frameworks like Keras.
+It is highly efficient for symbolic mathematics and can automatically optimize expressions for better performance.
+While Theano has been influential, it is less actively developed now in favor of TensorFlow and PyTorch.
+
+4. PyTorch:
+
+Distinct Features:
+
+PyTorch is an open-source deep learning framework developed by Facebook's AI Research lab.
+It's known for its dynamic computation graph, which makes it more flexible for certain applications.
+PyTorch has gained popularity for research and rapid experimentation.
+Functionality:
+
+PyTorch's dynamic computation graph allows for easy debugging and dynamic changes during runtime.
+It is highly popular in the research community due to its flexibility and support for dynamic networks.
+PyTorch also offers a wide range of libraries for natural language processing, computer vision, and reinforcement learning.
