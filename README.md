@@ -1,5 +1,7 @@
 # SPPU-BE-IT-DL-ASSIGNMENTS 🚀
 
+![ViewCount](https://views.whatilearened.today/views/github/RanjeetKumbhar01/SPPU-BE-IT-DL-ASSIGNMENTS.svg)
+
 BE IT (2019 Course) || 414447: Lab Practice IV
 
 Welcome to the repository for your deep learning assignments. Below, you'll find details for each assignment, including the task description.
